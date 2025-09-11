@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:ffmpeg_kit_https_flutter/ffmpeg_kit_config.dart';
-import 'package:ffmpeg_kit_https_flutter/ffmpeg_session.dart';
-import 'package:ffmpeg_kit_https_flutter/log.dart';
-import 'package:ffmpeg_kit_https_flutter/statistics.dart';
+import 'package:ffmpeg_kit_flutter_new_https_gpl/ffmpeg_kit_config.dart';
+import 'package:ffmpeg_kit_flutter_new_https_gpl/ffmpeg_session.dart';
+import 'package:ffmpeg_kit_flutter_new_https_gpl/log.dart';
+import 'package:ffmpeg_kit_flutter_new_https_gpl/statistics.dart';
 import 'package:render/src/formats/abstract.dart';
 import 'package:render/src/service/notifier.dart';
 import 'package:render/src/service/session.dart';

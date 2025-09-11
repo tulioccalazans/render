@@ -1,6 +1,6 @@
 name: render
 description: A package to render any native static and moving flutter widgets to exportable formats
-version: 0.1.4
+version: 0.1.5
 homepage: https://github.com/polarby/render
 
 environment:
@@ -9,11 +9,12 @@ environment:
 
 dependencies:
 #  ffmpeg_kit_https_flutter: ^1.0.2
-  ffmpeg_kit_https_flutter:
-#    path: C:\dev\github\ffmpeg-kit-https-flutter
-    git:
-      url: https://github.com/tulioccalazans/ffmpeg-kit-https-flutter.git
-      ref: main #branch name
+  ffmpeg_kit_flutter_new_https_gpl: ^1.1.0
+#  ffmpeg_kit_https_flutter:
+##    path: C:\dev\github\ffmpeg-kit-https-flutter
+#    git:
+#      url: https://github.com/tulioccalazans/ffmpeg-kit-https-flutter.git
+#      ref: main #branch name
 
   provider: ^6.0.5
   flutter:
